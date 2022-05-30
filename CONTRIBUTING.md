@@ -59,6 +59,9 @@ Or you can use
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/copier-org/copier)
 to start hacking with one click!
 
+-   This is a simple test to determine if pushing a change will automatically create a
+    fork.
+
 ## Get Started!
 
 Ready to contribute? Here's how to set up the project for local development.
